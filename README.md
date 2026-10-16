@@ -1,1 +1,1 @@
-# delfinime-ozel-site
+# delfinime-ozel
